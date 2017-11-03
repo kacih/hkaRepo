@@ -13,7 +13,7 @@ public class TEAM {
 	}
 	public String getGoal()
 	{
-		return "";
+		return "1";
 	}
 	
 }
