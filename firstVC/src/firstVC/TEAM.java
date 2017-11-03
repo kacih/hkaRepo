@@ -11,4 +11,9 @@ public class TEAM {
 	{
 		return "";
 	}
+	public String getGoal()
+	{
+		return "";
+	}
+	
 }
