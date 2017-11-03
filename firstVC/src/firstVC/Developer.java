@@ -21,4 +21,9 @@ public class Developer {
 		return !isSenior();
 	}
 	
+	public boolean havWornIn()
+	{
+		return new Random() .nextBoolean();
+
+	}
 }
