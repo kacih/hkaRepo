@@ -16,4 +16,9 @@ public class TEAM {
 		return "1";
 	}
 	
+	public String getEfficience()
+	{
+		return "";
+	}
+	
 }
