@@ -9,4 +9,8 @@ public class Developer {
 	{
 		return new Random() .nextBoolean();
 	}
+	public boolean isSenior()
+	{
+		return true;
+	}
 }
