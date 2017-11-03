@@ -13,4 +13,10 @@ public class Developer {
 	{
 		return true;
 	}
+	
+	public boolean isJunior()
+	{
+		return !isSenior();
+	}
+	
 }
