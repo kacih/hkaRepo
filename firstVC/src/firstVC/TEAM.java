@@ -28,4 +28,8 @@ public class TEAM {
 		System.out.println("Not Yet Implemented");
 	}
 	
+	public void functionA()
+	{
+	}
+	
 }
