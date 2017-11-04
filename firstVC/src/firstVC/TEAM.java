@@ -23,5 +23,13 @@ public class TEAM {
 	public void featureA()
 	{
 	}
+	public void functionB()
+	{
+		System.out.println("Not Yet Implemented");
+	}
+	
+	public void functionA()
+	{
+	}
 	
 }
