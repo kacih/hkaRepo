@@ -20,5 +20,8 @@ public class TEAM {
 	{
 		return "";
 	}
+	public void featureA()
+	{
+	}
 	
 }
