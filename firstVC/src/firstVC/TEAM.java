@@ -23,5 +23,8 @@ public class TEAM {
 	public void featureA()
 	{
 	}
+	public void functionB()
+	{
+	}
 	
 }
