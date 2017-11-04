@@ -1,5 +1,6 @@
 package firstVC;
 
+import java.util.Date;
 import java.util.Random;
 
 public class Developer {
@@ -26,4 +27,11 @@ public class Developer {
 		return new Random() .nextBoolean();
 
 	}
+	
+	public Date getDateOfBirth()
+	{
+		//uncomment after implementation
+		throw new RuntimeException("Not Yet Implemented");
+	}
+	
 }
