@@ -51,9 +51,14 @@ public class Developer {
 		Date datTo = spdf.parse("31/08/1978");
 		Date dateFrom = spdf.parse("11/06/1976");
 		
-		Assert.assertFalse("résultat de calcul "+ calculateDifferenceBetweenTwoDates(dateFrom, datTo),
+		Assert.assertFalse("rï¿½sultat de calcul "+ calculateDifferenceBetweenTwoDates(dateFrom, datTo),
 				calculateDifferenceBetweenTwoDates(dateFrom, datTo) > 0);
 	}
 	
 	
+	public Date getDateOfBirth()
+	{
+		//uncomment after implementation
+		throw new RuntimeException("Not Yet Implemented");
+	}
 }
