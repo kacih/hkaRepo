@@ -1,5 +1,6 @@
 package firstVC;
 
+import java.util.Date;
 import java.util.Random;
 
 public class Developer {
@@ -26,4 +27,12 @@ public class Developer {
 		return new Random() .nextBoolean();
 
 	}
+	
+	private long calculateDifferenceBetweenTwoDates(Date dateFrom, Date dateFin)
+	{
+		
+		return 0;
+	}
+	
+	
 }
