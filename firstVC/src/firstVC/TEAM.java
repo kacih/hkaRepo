@@ -24,4 +24,8 @@ public class TEAM {
 	{
 	}
 	
+	public void functionA()
+	{
+	}
+	
 }
